@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SD Scanner</string>
+    <string name="number_default">0</string>
+    <string name="folders">folders</string>
+    <string name="files">files</string>
+    <string name="scan_again">scan again</string>
+    <string name="scan_storage">Scan media storage</string>
+    <string name="start">start</string>
+</resources>
